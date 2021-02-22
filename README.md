@@ -32,3 +32,4 @@ Future ADDs
 ----
 * Battery with builtin charger (lolin32); 
 * Bluetooth connection 
+* 3d printed enclosure 
