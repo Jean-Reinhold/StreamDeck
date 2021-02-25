@@ -1,6 +1,6 @@
 Project Description: 
 ----
-* A simple Stream Deck based on blackmagic's design. Made with a lolin32 microcontroller emulating a keyboard. 
+* A simple Bluetooth Stream Deck based on blackmagic's design. Made with a lolin32 microcontroller emulating a keyboard. 
 
 Design:
 ----
@@ -33,3 +33,6 @@ Future ADDs
 * Battery with builtin charger (lolin32); 
 * Bluetooth connection 
 * 3d printed enclosure 
+* Oled display
+* Better debouncing 
+* Queue for comands; 
