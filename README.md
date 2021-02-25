@@ -35,4 +35,5 @@ Future ADDs
 * 3d printed enclosure 
 * Oled display
 * Better debouncing 
-* Queue for comands; 
+* Queue for macros 
+* Real toggle
