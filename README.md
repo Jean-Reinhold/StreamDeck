@@ -5,7 +5,7 @@ Project Description:
 Design:
 ----
 ![Design](Design.png)
-![Version1](V1_bottom.jpeg)
+![Version1](V1_up.jpeg)
 ![Version1](V1_bottom.jpeg)
 
 
