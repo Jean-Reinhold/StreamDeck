@@ -5,6 +5,8 @@ Project Description:
 Design:
 ----
 ![Design](Design.png)
+![Version1](V1_bottom.png)
+![Version1](V1_bottom.png)
 
 
 Desing Description:
@@ -18,6 +20,8 @@ Desing Description:
 
 *   `MUTE1` = Mute one sound channel
 *   `MUTE2` = Mute one sound channel  
+
+*   `Start/Stop` = Starts and stops the stream
 
 Componnents: 
 ----
