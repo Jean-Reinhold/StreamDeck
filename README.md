@@ -4,9 +4,10 @@ Project Description:
 
 Design:
 ----
+![Design](Design.png)
 ![Up view](V1_up.jpeg)
 ![Bottom view](V1_bottom.jpeg)
-![Design](Design.png)
+
 
 
 
