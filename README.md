@@ -7,6 +7,7 @@ Design:
 ![Design](design.png)
 ![Up view](V1_up.jpeg)
 ![Bottom view](V1_bottom.jpeg)
+![Buttons](buttons.jpeg)
 
 
 
